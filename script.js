@@ -16,14 +16,14 @@ button.forEach((box) => {
             box.innerText = "X";
             turnO = true;
         }
-        box.disabled = true;
+        box.disabled = true; // isses user ek baar click krne ke baad useme click nhi kar payega.
         count ++;
-       let isWinner= checkWinner();
+       let isWinner = checkWinner();
        if(count === 9 && !isWinner){
         gameDraw();
        }
     });
-});
+});  
 const gameDraw = ()=>{
     msg.innerText= `Game was a draw`;
     msgContainer.classList.remove("hide");
