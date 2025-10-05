@@ -33,3 +33,5 @@ This project helped me practice *DOM manipulation, game logic, and responsive UI
 - Add score tracker  
 
 ---
+
+## Live Demo :https://tic-tac-toc-mu.vercel.app/
