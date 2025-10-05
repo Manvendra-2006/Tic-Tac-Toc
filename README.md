@@ -27,14 +27,12 @@ This project helped me practice *DOM manipulation, game logic, and responsive UI
 
 ---
 
-## 🖼 Screenshots
-(Add a screenshot or GIF of your game here)
-
----
-
 ## 📌 Future Improvements
 - Add single-player mode (AI)  
 - Add sound effects and animations  
 - Add score tracker  
 
 ---
+
+ ## Live Demo : https://tic-tac-toc-mu.vercel.app/
+ ## GitHub URL : https://github.com/Manvendra-2006/Tic-Tac-Toc
